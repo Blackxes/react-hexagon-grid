@@ -1,0 +1,2 @@
+- [ ] Rework tile styles to use inline styles instead of styled-components (Will brutally increase performance)
+- [ ] Address rerender triggers on the `HexagonGrid` component to (partially) rebuild the grid
